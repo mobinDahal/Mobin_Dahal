@@ -14,7 +14,7 @@
 #     else:
 #         print("z is greater than y")
 
-#@@@@@@@@@@@@@@@@@@@@@ CLASSWORD @@@@@@@@@@@@@@@@@@@@@#
+#@@@@@@@@@@@@@@@@@@@@@ CLASSWORk @@@@@@@@@@@@@@@@@@@@@#
 # username = "admin"
 # password = "12345"
 # if username == "admin":
