@@ -1,4 +1,4 @@
-################################# HOMEWORK 3 #################################
+################################# HOMEWORK 3.1 #################################
 
 users = [
     ["user", "admin"],
@@ -24,3 +24,7 @@ if login_success:
     print(f"welcome {input_username}")
 else:
     print("incorrect username and password")
+
+
+
+################################# HOMEWORK 3.2 #################################
