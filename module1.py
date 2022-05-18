@@ -19,13 +19,15 @@ import example1
 
 # Homework = import os ra import sys
 # import os
+# os.mkdir("test1")
+# os.chdir(path="/test")
 # print(dir(os))
 # print(os.getcwd())
-# print(os.listdir("C://"))
-# os.rename("main.py","starting.py")
+# print(os.listdir("D://"))
+# os.rename("test1","test2")
 # os.rename("starting.py","main.py")
 # os.mkdir("sample.py")
-# os.rmdir("D://Mobin_Dahal/Projects/sample.py")
+# os.rmdir("test2")
 # print(os.name)
 
 
@@ -33,6 +35,6 @@ import sys
 # print(sys.platform)
 # print(sys.copyright)
 # print(sys.version)
-# sys.stdout.write("My name is Mobin Dahla\n")
-# sys.stderr.write("I am supporting Balen\n")
-print(sys.getsizeof("My name is Mobin Dahal"))
+sys.stdout.write("My name is Mobin Dahla")
+sys.stderr.write("I am supporting Balen")
+# print(sys.getsizeof("My name is Mobin Dahal"))

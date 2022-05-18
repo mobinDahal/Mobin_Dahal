@@ -1,0 +1,11 @@
+import os
+os.mkdir("demo")
+# os.chdir(path="/test")
+# print(dir(os))
+# print(os.getcwd())
+# print(os.listdir("D://"))
+# os.rename("test1","test2")
+# os.rename("starting.py","main.py")
+# os.mkdir("sample.py")
+# os.rmdir("test2")
+# print(os.name)
