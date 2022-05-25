@@ -64,7 +64,10 @@
 #         print("Not is the multiple of 3 and 5")
 
 
-x,*y,z= 19,34,23,5,23,11
-print(x)
-print(y)
-print(z)
+# x,*y,z= 19,34,23,5,23,11
+# print(x)
+# print(y)
+# print(z)
+import os
+os.mkdir("ModulesInPython")
+

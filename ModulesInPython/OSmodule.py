@@ -1,5 +1,5 @@
 import os
-os.mkdir("demo")
+os.mkdir("../demo")
 # os.chdir(path="/test")
 # print(dir(os))
 # print(os.getcwd())
