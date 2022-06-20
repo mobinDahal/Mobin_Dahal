@@ -8,17 +8,15 @@
 # print("Current day:", today.day)
 
 from datetime import datetime
-
+today = datetime.now()
+print(today)
+# print("Current date and time is", today.timestamp())
 # Getting Datetime from timestamp
 # date_time = datetime.fromtimestamp(1653413024.174224)
 # print("Datetime from timestamp:", date_time)
 
 # from datetime import datetime
 # #
-today = datetime.now()
-
-print("Current date and time is", today.timestamp())
-
 
 # Creating Time object
 # today = time.today()
